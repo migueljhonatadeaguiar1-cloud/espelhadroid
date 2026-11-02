@@ -1,7 +1,8 @@
 # espelhadroid
 Aplicativo em Python para parear um Android pela Depuração sem fio e abrir o `scrcpy` para espelhar e controlar o celular pelo computador.
 
-Requisitos
+
+##Requisitos
 
 - Windows 10 ou 11
 - Android 11 ou superior com **Opções do desenvolvedor > Depuração por Wi-Fi**
